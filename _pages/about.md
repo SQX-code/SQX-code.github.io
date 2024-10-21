@@ -12,4 +12,3 @@ I am currently a fourth year undergraduate student from [School of Automation Sc
 
 You can find my CV here: [Quanxin Shou's Curriculum Vitae](../assets/Shouquanxin_CV.pdf).
 
-[Email](mailto:quanxinshou@gmail.com) / [Github](https://github.com/quanxinshou) / [Wechat](../images/wechat.jpg)
